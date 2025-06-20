@@ -1,9 +1,9 @@
 # 💫 About Me:
 I'm currently studying<br>Love problem solving. Interested in backend development. <br>
-
--Currently working on [CampusCareerLink](https://github.com/nabihatahsin101/CampusCareerLink)
--My Full-stack project [https://github.com/Adiba113/READX]
--Reach me at **srabanimitra2222@gmail.com**
+- 
+- Currently working on [CampusCareerLink](https://github.com/nabihatahsin101/CampusCareerLink)
+- My Full-stack project [https://github.com/Adiba113/READX]
+- Reach me at **srabanimitra2222@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srabani-mitra-9639472b4/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srabanimitra2222@gmail.com) 
