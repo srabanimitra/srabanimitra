@@ -1,8 +1,9 @@
 # 💫 About Me:
 I'm currently studying<br>Love problem solving. Interested in backend development. <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srabanimitra&label=Profile%20views&color=0e75b6&style=flat" alt="srabanimitra" /> </p>
 - 
 - Currently working on [CampusCareerLink](https://github.com/nabihatahsin101/CampusCareerLink)
-- My Full-stack project [https://github.com/Adiba113/READX]
+- My Full-stack project [READX](https://github.com/Adiba113/READX)
 - Reach me at **srabanimitra2222@gmail.com**
 
 ## 🌐 Socials:
