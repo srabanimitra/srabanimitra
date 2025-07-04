@@ -1,4 +1,7 @@
 # 💫 About Me:
+![logo](https://www.canva.com/design/DAGsOBYBXLw/NeeidTgB8Dsj7zw9rsoUVQ/edit)
+<h1 align="center">Hi 👋, I'm Srabani Mitra</h1>
+
 I'm currently studying<br>Love problem solving. Interested in backend development. <br>
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=srabanimitra&label=Profile%20views&color=0e75b6&style=flat" alt="srabanimitra" /> </p>
 - Currently working on [CampusCareerLink](https://github.com/nabihatahsin101/CampusCareerLink)
