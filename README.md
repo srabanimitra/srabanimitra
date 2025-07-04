@@ -1,5 +1,5 @@
 # 💫 About Me:
-![logo](https://www.canva.com/design/DAGsOBYBXLw/NeeidTgB8Dsj7zw9rsoUVQ/edit)
+![logo](https://img.freepik.com/free-vector/artificial-intelligence-concept-twitch-banner_23-2150389746.jpg?semt=ais_hybrid&w=740)
 <h1 align="center">Hi 👋, I'm Srabani Mitra</h1>
 
 I'm currently studying<br>Love problem solving. Interested in backend development. <br>
